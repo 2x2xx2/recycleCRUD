@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fa_icon_pencil">&#xf040;</string>
+    <string name="fa_icon_remove">&#xf00d;</string>
+    <string name="fa_icon_plus">&#xf067;</string>
+    <string name="fa_bars">&#xf0c9;</string>
+    <string name="fa_money">&#xf0d6;</string>
+</resources>

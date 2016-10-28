@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recyclecrud</string>
+    <string name="nama">Nama</string>
+    <string name="email">E-mail</string>
+    <string name="notelp">No telp</string>
+    <string name="almat">Alamat</string>
+</resources>
